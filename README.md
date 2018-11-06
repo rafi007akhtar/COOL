@@ -36,11 +36,14 @@ To run the programs in this repository, you will need one of the two interpreter
     # Output: Hello, world
     ```
 
-    If you are using Windows, enter:
-    ```cmd
+    If you are using Windows, enter on a CMD:
+    ```bat
     cool.exe hello.cl
     ```
     Output: `Hello, world`
 
     For running on any other operating system, refer to [_The Reference Manual_](http://www.cs.virginia.edu/~cs415/cool-manual/cool-manual.html).
+    
+## License
+[MIT License](https://github.com/rafi007akhtar/COOL/blob/master/LICENSE)
     
